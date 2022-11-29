@@ -1,4 +1,4 @@
-from sys import stdin, stdout
+from sys import stdout
 from time import sleep
 
 import subprocess
